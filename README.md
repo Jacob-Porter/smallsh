@@ -1,5 +1,5 @@
 # smallsh
-Operating Systems I portfolio project
+Operating Systems I - Portfolio Project
 
 Compile and Run:
 
